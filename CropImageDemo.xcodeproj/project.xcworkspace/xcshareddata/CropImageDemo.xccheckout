@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>53B0C648-A1AD-436C-B99D-ABBA7CEACDE5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CropImageDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2B97FAFB-2A19-41D6-B2D5-F7A6935ED9F2</key>
+		<string>https://github.com/zhangzhixun/CropImageDemo</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CropImageDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2B97FAFB-2A19-41D6-B2D5-F7A6935ED9F2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zhangzhixun/CropImageDemo</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2B97FAFB-2A19-41D6-B2D5-F7A6935ED9F2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2B97FAFB-2A19-41D6-B2D5-F7A6935ED9F2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CropImageDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
